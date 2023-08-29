@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
 body{
     margin: 0;
     padding-top: 25px;
@@ -41,6 +43,7 @@ a:hover{
     height: 1400px;
     background-color: white;
     margin-top: 55px;
+    font-family: 'Poppins', sans-serif;
 }
 #segundo{
     width: 100%;
