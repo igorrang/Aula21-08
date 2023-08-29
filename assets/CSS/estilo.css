@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding-top: 25px;
+}
+
+/*Menu*/
+.menu{
+    background-color: whitesmoke;
+    top: 0;
+    position: fixed;
+    z-index: 1;
+    overflow: hidden;
+    width: 100%;
+}
+
+#logo{
+    float: left;
+}
+.lista{
+    float: right;
+    padding: 0 30% 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    font-weight: bold;
+}
+.direcao_menu{
+    display: inline;
+    padding-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+
+    color:green;
+}   
+#primeiro{
+    width: 100%;
+    height: 1400px;
+    background-color: black;
+    margin-top: 55px;
+}
+#segundo{
+    width: 100%;
+    height: 1400px;
+    background-color: whitesmoke;
+}
+#terceiro{
+    width: 100%;
+    height: 1400px;
+    background-color: black;
+}
+#quarto{
+    width: 100%;
+    height: 1400px;
+    background-color: whitesmoke;
+}
